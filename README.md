@@ -77,8 +77,8 @@ Open:
 ## Test Inputs (Two Lung Images)
 
 Place your two images in:
-- `sample_images/lung_case_1.png`
-- `sample_images/lung_case_2.png`
+- `sample_images/normal lung.png`
+- `sample_images/pneumonia lung.png`
 
 These names are referenced so testing is consistent across environments.
 
