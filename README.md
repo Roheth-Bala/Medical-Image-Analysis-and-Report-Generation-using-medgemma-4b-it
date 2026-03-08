@@ -10,7 +10,7 @@ The app runs locally and generates one structured report per uploaded X-ray.
 
 ## Features
 
-- Single-pass model inference (no repeated model prompting)
+- Single-pass model inference
 - Clean report sections:
   - Findings
   - Impression
